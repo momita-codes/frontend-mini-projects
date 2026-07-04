@@ -1,10 +1,10 @@
-## Project
-# Currency Converter
+# Project
+## Currency Converter
       A simple currency converter built using [HTML/CSS/JS or Python].
       Supports conversion between multiple international currencies using live exchange rates.
 
-# Tic-Tac-Toe-Game
+## Tic-Tac-Toe-Game
       A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
-# employeeDetails
+## employeeDetails
       An interactive mini-project demonstrating Employee Information using JavaScript array methods and DOM manipulation.
