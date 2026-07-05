@@ -1,0 +1,37 @@
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .todo-container {
+            width: 300px;
+            height: 150px;
+            margin: 100px auto;
+            padding: 20px;
+            border: 3px solid #4d4a4a;
+            border-radius: 5px;
+            background-color: #c5bcbc;
+        }
+        
+        /* Removes default list styling for the to-do list */
+        .todo-list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        /* Styles each list item in the to-do list */
+        li {
+            margin: 10px 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        /* Adds spacing for buttons in list items */
+        button {
+            margin-left: 10px;
+        }
