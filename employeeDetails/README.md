@@ -1,4 +1,4 @@
-# Employee Management System
+## Employee Management System
 
 An interactive mini-project demonstrating Employee Information using JavaScript array methods and DOM manipulation.
 
