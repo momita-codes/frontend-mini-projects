@@ -8,3 +8,6 @@
 
 ## employeeDetails
       An interactive mini-project demonstrating Employee Information using JavaScript array methods and DOM manipulation.
+
+## To-Do-List
+      A simple web-based to-do list application created using HTML, CSS, and JavaScript.
